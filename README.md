@@ -19,7 +19,6 @@ num_types = 232 #synthea
 num_types = 5 # synthetic data
 It is located under transformer/Constants.py.
 
-4. AAAI_23_TCMBN_appendix.pdf This is appendix for the paper.
 
 
 

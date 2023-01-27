@@ -22,6 +22,8 @@ It is located under transformer/Constants.py.
 
 4. Other datasets are [here]: (https://drive.google.com/drive/u/0/folders/1qFczWc_sVwOsVIga0oywhnVs2vyqVr5r)
 
+5. Consider citing our paper : Concurrent Multi-Label Prediction in Event Streams, in AAAI 2023
+
 
 
 

@@ -1,6 +1,6 @@
 # Transformer Conditional Mixture Bernoulli Network
 
-Source code for Transformer Conditional Mixture Bernoulli Network.
+Source code for Transformer Conditional Mixture Bernoulli Network. AAAI 23
 
 ### Instructions 
 1. folders:
